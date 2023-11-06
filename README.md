@@ -2,7 +2,7 @@
 * 🚀 Fake API for frontend developers to practice and learn.
 
 ## How to use
-```http
+```
 https://sanalzio.github.io/Only-FrontEnd-Fake-API/#message="message"?url=WebhookURL
 ```
 
